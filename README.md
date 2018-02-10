@@ -3,7 +3,7 @@ Perl-wrapper code that implements an analysis pipeline to detect transposon-base
 
 >**deamhan**: _gaelic_ demon, devil
 
-As with many biology-driven projects, this was project complex due to the 
+As with many biology-driven projects, this project was complex due to the 
 inter-mix of basic cancer biology in mice, wet-lab sample preparation,
 high-throughput Next Generation Sequencing (NGS) technology, mathematical
 modelling and number crunching on a High Performance Compute (HPC) cluster.
